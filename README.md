@@ -89,7 +89,7 @@ Developed a **Cybersecurity Threat Detection** web application using **Python** 
 
 <div align="center">
 
-<img src="github-metrics.svg?v=2" alt="GitHub Metrics"/>
+<img src="github-metrics.svg?v=3" alt="GitHub Metrics"/>
 
 </div>
 
